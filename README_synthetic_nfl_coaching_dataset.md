@@ -6,7 +6,7 @@ This repository contains a synthetic dataset of 300 NFL coaches generated for ac
 ## 📁 Contents
 
 - `cleaned_synthetic_nfl_coach_dataset.csv`: The finalized synthetic dataset with cleaned and validated variables.
-- `generate_dataset.py`: Python script to reproduce the dataset.
+- `generate_synthetic_nfl_dataset.py`: Python script to reproduce the dataset.
 
 ## 📊 Dataset Overview
 
