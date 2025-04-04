@@ -1,3 +1,4 @@
+How Coaching Disparities Shape Black Careers in the National Football League
 
 # Synthetic NFL Coaching Dataset (2003–2023)
 
