@@ -63,5 +63,5 @@ for race, num_promote in promotion_targets.items():
     df.loc[eligible.index, 'tenure_years'] = np.random.randint(3, 11, size=num_promote)
 
 # Save dataset
-df.to_csv('realistic_nfl_promotions_dataset.csv', index=False)
-print("Synthetic NFL dataset generated and saved as 'realistic_nfl_promotions_dataset.csv'")
+df.to_csv('synthetic_nfl_dataset.csv', index=False)
+print("Synthetic NFL dataset generated and saved as 'synthetic_nfl_dataset.csv'")
