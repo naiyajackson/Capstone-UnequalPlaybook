@@ -1,6 +1,6 @@
-### How Coaching Disparities Shape Black Careers in the National Football League
+# Unequal Playbook: How Coaching Disparities Shape Black Careers in the National Football League
 
-# NFL Coach Hire Dataset (2013–2024)
+### NFL Coach Hire Dataset (2013–2024)
 
 This repository contains a dataset of 85 NFL head coach hires between 2013-2024. The dataset was created to reflect patterns in NFL coaching careers, particularly focusing on racial disparities in promotions, prior player experience, and the impact of the Rooney Rule.
 
