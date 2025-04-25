@@ -1,0 +1,86 @@
+year,hc_name,race_ethnicity,minority,former_player,team,hc_round,prior_role,side,previous_interim,internal_promotion,hired_from_college,active,tenure_end_year,tenure_length,notes
+2013,Andy Reid,White,0,0,Kansas City Chiefs,2,1,Offense,0,0,0,1,NA,12,"Former HC, Eagles"
+2013,Doug Marrone,White,0,0,Buffalo Bills,1,1,Offense,1,0,1,0,2020,8,Hired from Syracuse
+2013,Marc Trestman,White,0,0,Chicago Bears,1,1,Offense,0,0,0,0,2014,2,"CFL hire, Montreal Alouettes"
+2013,Rob Chudzinski,White,0,0,Cleveland Browns,1,1,Offense,0,0,0,0,2013,1,"OC, Panthers"
+2013,Gus Bradley,White,0,0,Jacksonville Jaguars,1,1,Defense,0,0,0,0,2016,4,"DC, Seahawks"
+2013,Chip Kelly,White,0,0,Philadelphia Eagles,1,0,None,0,0,1,0,2016,4,Hired from Oregon
+2013,Mike McCoy,White,0,0,San Diego Chargers,1,1,Offense,0,0,0,0,2016,4,"OC, Broncos"
+2013,Bruce Arians,White,0,0,Arizona Cardinals,2,1,Offense,0,0,0,0,2022,10,"Former interim HC, Colts"
+2014,Lovie Smith,Black,1,0,Tampa Bay Buccaneers,2,1,Defense,0,0,0,0,2022,9,"Recycled HC, previously with Bears"
+2014,Jim Caldwell,Black,1,0,Detroit Lions,2,1,Offense,0,0,0,0,2017,4,"Former Colts HC; OC, Ravens"
+2014,Bill O'Brien,White,0,0,Houston Texans,1,1,Offense,0,0,1,0,2020,7,Hired from Penn State
+2014,Mike Pettine,White,0,0,Cleveland Browns,1,1,Defense,0,0,0,0,2015,2,"Former DC, Buffalo Bills"
+2014,Ken Whisenhunt,White,0,0,Tennessee Titans,2,1,Offense,0,0,0,0,2015,2,"Recycled HC, former HC, Cardinals"
+2014,Jay Gruden,White,0,0,Washington Commanders,1,1,Offense,0,0,0,0,2019,6,"Former OC, Bengals"
+2014,Mike Zimmer,White,0,0,Minnesota Vikings,1,1,Defense,0,0,0,0,2021,8,"Former DC, Bengals"
+2015,John Fox,White,0,0,Chicago Bears,2,1,Defense,0,0,0,0,2017,3,Fired by Broncos after Super Bowl loss
+2015,Gary Kubiak,White,0,0,Denver Broncos,2,1,Offense,0,1,0,0,2016,2,OC promoted after one year with team
+2015,Jack Del Rio,White,0,0,Oakland Raiders,2,1,Defense,0,0,0,0,2017,3,"Former HC, Jaguars"
+2015,Jim Tomsula,White,0,0,San Francisco 49ers,1,0,Defense,1,1,0,0,2015,1,Internal DL Coach promotion
+2015,Dan Quinn,White,0,0,Atlanta Falcons,1,1,Defense,0,0,0,0,2024,10,"DC, Seahawks"
+2015,Todd Bowles,Black,1,1,New York Jets,1,1,Defense,0,0,0,0,2024,10,"DC, Cardinals"
+2015,Rex Ryan,White,0,0,Buffalo Bills,2,1,Defense,0,0,0,0,2016,2,Fired from Jets
+2016,Hue Jackson,Black,1,1,Cleveland Browns,2,1,Offense,0,0,0,0,2018,3,"OC, Bengals"
+2016,Chip Kelly,White,0,0,San Francisco 49ers,2,1,Offense,0,0,0,0,2016,1,"Former HC, Eagles"
+2016,Mike Mularkey,White,0,0,Tennessee Titans,3,1,Offense,1,1,0,0,2017,2,No notes
+2016,Adam Gase,White,0,0,Miami Dolphins,1,1,Offense,0,0,0,0,2020,5,"OC, Bears"
+2016,Doug Pederson,White,0,1,Philadelphia Eagles,1,1,Offense,0,0,0,0,2024,9,"OC, Chiefs"
+2016,Ben McAdoo,White,0,0,New York Giants,1,1,Offense,0,1,0,0,2017,2,"OC, Giants"
+2016,Dirk Koetter,White,0,0,Tampa Bay Buccaneers,1,1,Offense,0,1,0,0,2018,3,"OC, Bucs"
+2017,Sean McVay,White,0,0,Los Angeles Rams,1,1,Offense,0,0,0,0,2024,8,"Former OC, Washington"
+2017,Sean McDermott,White,0,0,Buffalo Bills,1,1,Defense,0,0,0,1,NA,8,"Former DC, Panthers"
+2017,Vance Joseph,Black,1,0,Denver Broncos,1,1,Defense,0,0,0,0,2018,2,"Former DC, Dolphins"
+2017,Anthony Lynn,Black,1,1,Los Angeles Chargers,1,1,Offense,0,0,0,0,2020,4,"Interim HC / RB Coach, Bills"
+2017,Kyle Shanahan,White,0,0,San Francisco 49ers,1,1,Offense,0,0,0,0,2024,8,"Former OC, Falcons"
+2017,Doug Marrone,White,0,0,Jacksonville Jaguars,2,1,Offense,1,1,0,0,2020,4,Promoted internally after interim role
+2018,Matt Nagy,White,0,0,Chicago Bears,1,1,Offense,0,0,0,0,2021,4,"Former OC, Chiefs"
+2018,Matt Patricia,White,0,0,Detroit Lions,1,1,Defense,0,0,0,0,2020,3,"Former DC, Patriots"
+2018,Frank Reich,White,0,1,Indianapolis Colts,1,1,Offense,0,0,0,0,2023,6,"Former OC, Eagles"
+2018,Mike Vrabel,White,0,1,Tennessee Titans,1,1,Defense,0,0,0,0,2023,6,"Former DC, Texans"
+2018,Steve Wilks,Black,1,0,Arizona Cardinals,1,1,Defense,1,0,0,0,2018,1,"Former DC, Panthers"
+2018,Pat Shurmur,White,0,0,New York Giants,2,1,Offense,0,0,0,0,2019,2,"Former HC; OC, Vikings"
+2018,Jon Gruden,White,0,0,Oakland Raiders,3,1,Offense,0,0,0,0,2021,4,"Rehired after years in broadcasting; former HC, Raiders & Buccaneers"
+2019,Kliff Kingsbury,White,0,0,Arizona Cardinals,1,0,None,0,0,1,0,2022,4,Hired from Texas Tech (college)
+2019,Zac Taylor,White,0,0,Cincinnati Bengals,1,0,Offense,0,0,0,0,2024,6,"QB Coach, Rams"
+2019,Freddie Kitchens,White,0,0,Cleveland Browns,1,0,Offense,0,1,0,0,2019,1,Internal promotion (RB Coach/Associate HC)
+2019,Vic Fangio,White,0,0,Denver Broncos,1,1,Defense,0,0,0,0,2021,3,"DC, Bears"
+2019,Matt LaFleur,White,0,0,Green Bay Packers,1,1,Offense,0,0,0,0,2024,6,"OC, Titans"
+2019,Brian Flores,Honduran American,1,0,Miami Dolphins,1,0,Defense,0,0,0,0,2021,3,"LB Coach/Defensive Playcaller, Patriots"
+2019,Adam Gase,White,0,0,New York Jets,2,1,Offense,0,0,0,0,2020,2,Recycled HC from Dolphins
+2019,Bruce Arians,White,0,0,Tampa Bay Buccaneers,2,1,Offense,0,0,0,0,2022,4,Recycled HC from Cardinals
+2020,Kevin Stefanski,White,0,0,Cleveland Browns,1,1,Offense,0,0,0,0,2024,5,"Former OC, Vikings"
+2020,Joe Judge,White,0,0,New York Giants,1,0,Special Teams,0,0,0,0,2021,2,"Former ST Coordinator/WR Coach, Patriots"
+2020,Matt Rhule,White,0,0,Carolina Panthers,1,0,None,0,0,1,0,2022,3,Hired from Baylor
+2020,Ron Rivera,Latino,1,1,Washington Commanders,2,1,Defense,0,0,0,0,2023,4,"Former HC, Panthers"
+2020,Mike McCarthy,White,0,0,Dallas Cowboys,2,1,Offense,0,0,0,0,2024,5,Former Packers HC
+2021,Dan Campbell,White,0,1,Detroit Lions,1,0,Offense,1,0,0,1,NA,4,"Former Asst HC/TE Coach, Saints"
+2021,David Culley,Black,1,0,Houston Texans,1,0,Offense,0,0,0,0,2021,1,"Assistant HC/WR Coach, Ravens"
+2021,Urban Meyer,White,0,0,Jacksonville Jaguars,1,0,None,0,0,1,0,2021,1,Hired from college; no NFL coordinator experience
+2021,Brandon Staley,White,0,0,Los Angeles Chargers,1,1,Defense,0,0,0,0,2023,3,"Former DC, Rams"
+2021,Arthur Smith,White,0,0,Atlanta Falcons,1,1,Offense,0,0,0,0,2023,3,"Former OC, Titans"
+2021,Robert Saleh,Lebanese American,1,0,New York Jets,1,1,Defense,0,0,0,0,2024,4,"Former DC, 49ers"
+2021,Nick Sirianni,White,0,0,Philadelphia Eagles,1,1,Offense,0,0,0,1,NA,4,"Former OC, Colts"
+2022,Matt Eberflus,White,0,0,Chicago Bears,1,1,Defense,0,0,0,0,2024,3,Hired from Colts (DC)
+2022,Nathaniel Hackett,White,0,0,Denver Broncos,1,1,Offense,0,0,0,0,2022,1,Hired from Packers (OC)
+2022,Lovie Smith,Black,1,0,Houston Texans,3,1,Defense,0,1,0,0,2022,1,Promoted by Texans (DC)
+2022,Doug Pederson,White,0,1,Jacksonville Jaguars,2,1,Offense,0,0,0,0,2024,3,"Former HC, Eagles"
+2022,Josh McDaniels,White,0,0,Las Vegas Raiders,2,1,Offense,0,0,0,0,2023,2,"Former OC, Patriots"
+2022,Mike McDaniel,Multiracial,1,0,Miami Dolphins,1,1,Offense,0,0,0,1,NA,3,"Former OC, 49ers"
+2022,Kevin O'Connell,White,0,1,Minnesota Vikings,1,1,Offense,0,0,0,1,NA,3,"Former OC, Rams"
+2022,Dennis Allen,White,0,0,New Orleans Saints,2,1,Defense,0,1,0,0,2024,3,"Promoted from DC, Saints"
+2022,Brian Daboll,White,0,0,New York Giants,1,1,Offense,0,0,0,1,NA,3,"Former OC, Bills"
+2023,Jonathan Gannon,White,0,0,Arizona Cardinals,1,1,Defense,0,0,0,1,NA,2,Hired post-SB LVI
+2023,DeMeco Ryans,Black,1,1,Houston Texans,1,1,Defense,0,0,0,1,NA,2,Hired post-SB LVI
+2023,Shane Steichen,White,0,0,Indianapolis Colts,1,1,Offense,0,0,0,1,NA,2,Hired post-SB LVI
+2023,Todd Bowles,Black,1,1,Tampa Bay Buccaneers,2,1,Defense,0,1,0,0,2024,2,Promoted internally after Arians retirement
+2023,Frank Reich,White,0,1,Carolina Panthers,2,1,Offense,0,0,0,0,2023,1,Recycled HC
+2023,Sean Payton,White,0,0,Denver Broncos,3,1,Offense,0,0,0,1,NA,2,No notes
+2024,Jim Harbaugh,White,0,1,Los Angeles Chargers,2,0,Offense,0,0,1,1,NA,1,Returned to NFL from Michigan
+2024,Mike Macdonald,White,0,0,Seattle Seahawks,1,1,Defense,0,0,0,1,NA,1,"Former DC, Ravens"
+2024,Dave Canales,Hispanic,1,0,Carolina Panthers,1,1,Offense,0,0,0,1,NA,1,"Former OC, Buccaneers"
+2024,Brian Callahan,White,0,0,Tennessee Titans,1,1,Offense,0,0,0,1,NA,1,"Former OC, Bengals"
+2024,Raheem Morris,Black,1,1,Atlanta Falcons,2,1,Defense,0,0,0,1,NA,1,"Former interim HC, Falcons"
+2024,Jerod Mayo,Black,1,1,New England Patriots,1,0,Defense,1,1,0,1,NA,1,Promoted from within; former assistant
+2024,Antonio Pierce,Black,1,1,Las Vegas Raiders,1,0,Defense,1,1,0,1,NA,1,No notes
+2024,Dan Quinn,White,0,0,Washington Commanders,2,1,Defense,0,0,0,1,NA,1,"Former HC, Falcons; DC, Cowboys"
