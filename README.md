@@ -1,6 +1,6 @@
 # Unequal Playbook: How Coaching Disparities Shape Black Careers in the National Football League
 
-## Objectives
+## Project Objectives
 
 - Analyze trends in representation and promotion by race and coaching role
 - Predict the likelihood of rehiring using machine learning models
