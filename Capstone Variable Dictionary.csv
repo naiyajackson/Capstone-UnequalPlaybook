@@ -1,0 +1,31 @@
+NFL Coach Hire 2013-2024.csv,,
+Variable,Type,Description
+year,Integer,Year the head coach was hired.
+hc_name,String,Full name of the head coach.
+race_ethnicity,String,Racial or ethnic background of the head coach.
+minority,Integer (0/1),"1 = Minority, 0 = Non-minority."
+former_player,Integer (0/1),1 = Coach previously played in the NFL. 0 = Coach did not play in the NFL.
+team,String,NFL team that hired the head coach.
+hc_round,Integer,How many times this coach has been hired as an NFL head coach (1 = first time).
+prior_role,Integer (0–3),"If the role before head coach specialized in: 1 = Offense, 2 = Defense, 3 = Special Teams, 0 = No coordinator role."
+side,String,"Offensive, defensive, or special teams background."
+previous_interim,Integer (0/1),1 = Hired while serving as an interim head coach. 0 = Coach was not interim before being hired.
+internal_promotion,Integer (0/1),"Whether the coach was promoted from within the same team (1 = Yes, 0 = No)."
+hired_from_college,Integer (0/1),"1 = Hired from a college coaching position, 0 = Hired from the NFL."
+active,Integer (0/1),"Whether the coach is still head coach for the team in 2024 (1 = Yes, 0 = No)."
+tenure_end_year,Integer or NA,Year the coach left or is projected to leave the team. NA if still active.
+tenure_length,Float,Length of tenure in years. Calculated as tenure_end_year - year + 1.
+notes,String,Additional context about the hire.
+,,
+,,
+NFL Black Roles 2013-2024.csv,,
+Variable,Type,Description
+year,Integer,Calendar year of NFL season.
+pct_black_players,Float,Percentage of all NFL players who identified as Black/African American.
+pct_black_hcs_total,Float,Percentage of all active head coaches that year who were Black.
+pct_black_assistants,Float,Percentage of assistant coaches who were Black.
+pct_black_gms,Float,Percentage of general managers who were Black.
+pct_women_assistants,Float,Percentage of assistant coaches who were women.
+pct_woc_assistants,Float,Percentage of assistant coaches who were women of color.
+representation_gap_hc,Float,Difference between % of Black players and % of Black head coaches (positive = underrepresentation).
+race_black,Integer (0/1),"Binary indicator for Black coaches only. 1 = Black, 0 = All other races. Created to isolate Black representation in predictive models."
