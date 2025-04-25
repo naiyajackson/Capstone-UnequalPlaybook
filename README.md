@@ -24,7 +24,7 @@ Two primary datasets were manually compiled to perform both individual- and stru
 
 ### Contact
 
-For questions or collaboration inquiries, please contact the student researcher:
+For questions or inquiries, please contact the student researcher:
 - **Naiya Jackson**
 - Howard University – Applied Data Science & Analytics
 - 📧 Email: naiya.jackson@gmail.com
