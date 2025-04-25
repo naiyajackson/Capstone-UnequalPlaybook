@@ -1,37 +1,23 @@
 # Unequal Playbook: How Coaching Disparities Shape Black Careers in the National Football League
 
-### NFL Coach Hire Dataset (2013–2024)
+### Data Sources (2013–2024)
 
-This repository contains a dataset of 85 NFL head coach hires between 2013-2024. The dataset was created to reflect patterns in NFL coaching careers, particularly focusing on racial disparities in promotions, prior player experience, and the impact of the Rooney Rule.
+Two primary datasets were manually compiled to perform both individual- and structural-level analysis of race and coaching opportunity insights. The two data datasets consist of:
+
+(1) 85 NFL head coach hires, constructed from annual Diversity and Inclusion Reports published by the NFL Operations Office (2013–2024), official team announcements, and verified public biographical data.
+
+(2) League-wide structural context for each year, sourced from the NFL’s reports and Racial and Gender Report Cards published by The Institute for Diversity and Ethics in Sport (TIDES).
 
 ## Contents
+- `NFL Coach Hire 2013 - 2024.csv`: First dataset consisting of NFL head coach hire data.
+- `NFL Black Roles 2013 - 2024.csv`: Second dataset consisting of Black NFL role data. 
+- `Capstone Variable Dictionary.csv`: The finalized dataset dictionary with definitions of each variable.
+- `Jackson_UnequalPlaybook.ipynb`: Python script to clean and analyze the dataset.
 
-- `NFL Coach Hire 2013 - 2024.csv`: The finalized dataset with cleaned and validated variables.
-- `Capstone_UnequalPlaybook.ipynb`: Python script to analyze the dataset.
-
-## Dataset Overview
-
-The dataset includes the following variables:
-- 'year'
-- 'hc_name'
-- 'race_ethnicity'
-- 'minority'
-- 'former_player'
-- 'team'
-- 'hc_round'
-- 'prior_role'
-- 'side'
-- 'previous_interim'
-- 'internal_promotion'
-- 'hired_from_college'
-- 'active'
-- 'tenure_end_year'
-- 'tenure_length'
-- 'notes'
 
 ## Contact
 
 For questions or collaboration inquiries, please contact the student researcher:
 - **Naiya Jackson**
 - Howard University – Applied Data Science & Analytics
-- 📧 naiya.jackson@bison.howard.edu
+- 📧 naiya.jackson@gmail.com
