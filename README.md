@@ -30,4 +30,4 @@ For questions or inquiries, please contact the student researcher:
 - 📧 Email: naiya.jackson@gmail.com
 - 🔗 LinkedIn: Naiya Jackson
 
-Corresponding Tableau StoryMap: https://public.tableau.com/app/profile/naiya.jackson/viz/UnequalPlaybook/Dashboard1
+Corresponding Tableau Dashboard: https://public.tableau.com/app/profile/naiya.jackson/viz/UnequalPlaybook/Dashboard1
