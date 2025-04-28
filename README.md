@@ -1,4 +1,5 @@
 # Unequal Playbook: How Coaching Disparities Shape Black Careers in the National Football League 
+Corresponding Tableau Dashboard: https://public.tableau.com/app/profile/naiya.jackson/viz/UnequalPlaybook/Dashboard1
 
 ## Project Objectives
 
@@ -29,5 +30,3 @@ For questions or inquiries, please contact the student researcher:
 - Howard University, M.S. Applied Data Science & Analytics
 - 📧 Email: naiya.jackson@gmail.com
 - 🔗 LinkedIn: Naiya Jackson
-
-Corresponding Tableau Dashboard: https://public.tableau.com/app/profile/naiya.jackson/viz/UnequalPlaybook/Dashboard1
